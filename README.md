@@ -36,7 +36,7 @@ instead, it returns file descriptors that represents the read and the write ends
 these file descriptors when used with the "read()" and the "write()" system calls,
 trigger the kernel to interact with the pipe's buffer to transfer data.
 
-:luc_github: ***Diagram** :
+***Diagram*** :
 
 ![Logo](Pipex-Diagram.png)
 
