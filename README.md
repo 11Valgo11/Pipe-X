@@ -1,5 +1,7 @@
 ## ***PIPEX-PROJECT 42***
 
+***Note: The information provieded might have wrong or unprecise information, its always on you to keep diving into the concepts, and find the real correct and precise knowledege.***
+
 A pipe is a mechanism or a way, that allows the output of one process, to be used as input for another process, and its commonly used in shell commands, its basic syntax goes like this
 
 **" command 1 | command 2 "**
